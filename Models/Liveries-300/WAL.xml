@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">Worldwide airlines</name>
+            <texture>Liveries-300/Worldwide airlines new livery sel 773.png</texture>
+        </livery>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>WAL</aircraft-operator>
+</sim>
+</PropertyList>
